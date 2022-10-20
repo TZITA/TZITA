@@ -1,5 +1,5 @@
 # TZITA
-### Software Student at ALX HOLBERTON School
+### Software Engineering Student at ALX HOLBERTON School
 
 ## Interests
 ### Big Data Analysis
