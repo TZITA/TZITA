@@ -1,8 +1,8 @@
 # TZITA
-### Software Engineering Student at ALX HOLBERTON School
+### Software Engineering Student at ALX HOLBERTON School 👨‍🎓
 
 ## Interests
 ### Big Data Analysis
 
-### Contact me:
+### Contact me 📧
 #### thomas.beyene.987@gmail.com
